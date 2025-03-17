@@ -1,6 +1,11 @@
 <resources>
-    <string name="app_name">Seg</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="app_name">Seg 0Auth2</string>
+    <string name="title_home">início</string>
+    <string name="title_dashboard">Painel</string>
+    <string name="title_notifications">Avisos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_cad_credencial">cad. perfil</string>
+    <string name="hint_nome">Vinicius de Morais</string>
+    <string name="perfil">perfil</string>
 </resources>
