@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "br.com.pamela.moblie.seg"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "br.com.pamela.moblie.seg"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
